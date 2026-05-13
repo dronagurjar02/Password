@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author : Ken Youens-Clark <kyclark@gmail.com>
+Author : Drona Gurjar
 Date   : 2019-11-23
 Purpose: Harvest parts of speech from texts
 """
